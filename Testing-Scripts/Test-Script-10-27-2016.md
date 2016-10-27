@@ -8,7 +8,11 @@
 ## Features tested this week:
 
 - Homepage wireframes
-   - Will be tested as flat PDFs (facilitator will share their screen)
+   - Will be tested as flat PDFs:
+
+   [Wireframe 1](https://github.com/18F/fec-cms/files/554602/homepage_option1_revised_102616.pdf)
+
+   [Wireframe 2](https://github.com/18F/fec-cms/files/554601/homepage_option2_revised_102616.pdf)
 
 ## Introduction script:
 
@@ -42,21 +46,21 @@ Before we take a look at the wireframes, I’d first like to ask a few things:
 
 ## Questions for wireframe option 1:
 
-Okay, now let’s look at the first design. I am going to share my screen with you and show it to you on my computer.
+Okay, now let’s look at the first design. Let's try having you open the first PDF - Wireframe option 1 - and share your screen with me.
 
-[share screen]
+[user opens PDF and shares screen]
 
-- As we stay scrolled to the top of the screen, what is your first impression of the page?
+- Staying scrolled to the top of the screen, what is your first impression of the page?
 
 - Does the happening soon section contain the kind of information you would expect to see?
 
-- I'm going to go back to the top now for the next question. If you would like me to scroll, feel free to tell me. The question is: What would you do if you worked for a candidate's campaign, and you wanted to know more about how to file your required reports with the FEC?
+- Let's scroll back to the top of the screen. The question is: What would you do if you worked for a candidate's campaign, and you wanted to know more about how to file your required reports with the FEC?
 
     - _if not already addressed_ How would you expect the section labeled “What can we help you do”? to function?
         - Does this section of the page seem useful?
 
 
--  Let's scroll back to the top. As you may know, the FEC deals with campaign finance for federal elections, and it does not oversee state-level campaigns. However, people often make the mistake of asking the FEC about state-level issues. If you came to the FEC website with a state-level question, what would be your expectations?
+-  Again, we can scroll back to the top. As you may know, the FEC deals with campaign finance for federal elections, and it does not oversee state-level campaigns. However, people often make the mistake of asking the FEC about state-level issues. If you came to the FEC website with a state-level question, what would be your expectations?
     - Would the information on this page be helpful to you?
 
 
@@ -71,24 +75,24 @@ Okay, now let’s look at the first design. I am going to share my screen with y
 
 ## Questions for wireframe option 2:
 
-Okay, great. We're finished with the first design.  Let's take a look at the second one.
+Okay, great. We're finished with the first design.  Let's take a look at the second one. If you can, please open the PDF for option 2.
 
-I'm going to adjust my screen for a moment to bring up the second wireframe.
+[wait for user to open PDF]
 
 - Okay, here we go. As we stay scrolled to the top of the screen, what is your first impression of the page?
 
-- As we continue scrolling, what thoughts do you have about the financial data section?
+- As you continue scrolling, what thoughts do you have about the financial data section?
 	- Is the information here useful?
 	- Would you change something about it?
 
 
-- I'm going to go back to the top now for the next question. If you would like me to scroll, feel free to tell me. The question is: What would you do if you worked for a candidate's campaign, and you wanted to know more about how to file your required reports with the FEC?
+- Let's scroll back to the top now for the next question. The question is: What would you do if you worked for a candidate's campaign, and you wanted to know more about how to file your required reports with the FEC?
 
     - _if not already addressed_, how would you expect the “Who do you need information for” section to function?
 	    - Does this section of the page seem useful?
 
 
-- Let’s scroll back to the top. Recalling that the FEC does not deal with state-level campaigns, if you came to the website seeking that information, would the information on this page be helpful to you?
+- Again, let’s scroll back to the top. Recalling that the FEC does not deal with state-level campaigns, if you came to the website seeking that information, would the information on this page be helpful to you?
 
 - Thinking about this page as a whole, does it seem like there is anything missing?
 

@@ -2,7 +2,7 @@
 
 ## Quick connection links
 
-- Watch & listen: <https://join.mycospace.com/invited.sf?id=538182145> or 1-646-517-0017  x538182145#
+- Watch & listen: <https://hangouts.google.com/hangouts/_/gsa.gov/fec-features?authuser=0>
 - Take notes: <https://docs.google.com/spreadsheets/d/1Z3T45hb1WAhD1zRL_fLXZlfQ9ApenTvgYE0OM0eLhaE/edit?pli=1#gid=313597352>
 
 ## Features tested this week:

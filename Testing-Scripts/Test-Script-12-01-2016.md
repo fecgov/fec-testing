@@ -74,7 +74,7 @@ So, the first question I have is:
 - Let's scroll back up, and I will change the scenario a bit. Instead of working for a committee running a campaign, imagine that you are working for a corporation that wants to donate money to a specific candidate. You aren't sure where to begin, so you came to the FEC website. What would you do?
 
 - Okay, we'll scroll back up. Only two scenarios left! Imagine that you are working for a Senator who is currently campaigning for re-election. An organization has recently offered the Senator money to speak at an upcoming event, and you want to if it's legally okay for her to donate the payment to charity. What would you do to begin answering this question?
-    - [if not yet addressed] Let's take a look at the information in the "candidate and committee services" section. Does the information in this section seem helpful?
+    - [if not yet addressed] Let's take a look at the information in the "campaign finance law" section. Does the information in this section seem helpful?
 
 - Let's scroll back up for a final scenario. Imagine that you came to this website because you want to register to vote. What would you do?
 

@@ -70,7 +70,7 @@ Great! We've finished with our tasks. Before we move on to our next section, I'd
     - Would you take anything away?
     
 
-## Section title:
+## Content outline questions
 
 Okay, for the next section, I'm going to share my screen with you. 
 

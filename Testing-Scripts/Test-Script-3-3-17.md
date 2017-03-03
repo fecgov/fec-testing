@@ -69,7 +69,7 @@ You should be seeing something that looks like an outline. Are you seeing that?
 
 [user confirms]
 
-Okay, great. The outline you see here is a summary of the content you were just exploring. As you can see, the outline is missing a title. What title would you give it?
+Okay, great. As you can see, the outline is missing a title. What title would you give it?
      - Can you tell me anything more about your suggestion?
      
 Okay, thank you. Let's move to the next screen. You should now be seeing a list of other possible titles. Do you see them?

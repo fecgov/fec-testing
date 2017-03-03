@@ -80,8 +80,9 @@ Good.
 - _if the user suggested a title_ Which, if any, of these titles do you think is closest to the one you suggested? 
 - _whether or not the user suggested a title_ What (other) thoughts do you have about the options presented here? 
 
+---
 
-[if there is time and the user is interested in compliance]
+[if there is time and the user is interested in compliance, go to https://beta.fec.gov/candidate-and-committee-services/ and have the user complete these tasks]
 
 **TASK 1:**
 You are a candidate running for office, and you want to loan some of your own money to your campaign. Can you find a page on this website that tells you whether or not this is possible?

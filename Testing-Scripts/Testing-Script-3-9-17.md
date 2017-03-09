@@ -79,7 +79,7 @@ Okay, feel free to take control of your mouse again. I'm going to present you wi
 
 - You're a researcher at a university who studies the role of independent expenditures in federal elections. You're looking to download all the data you can on independent expenditures from the 2016 election cycle. How would you do that?
 
-_user is likely to end up on the legacy site for this task. if so, ask them to complete another task starting from there._ - Okay, now imagine that you want to look up some data specifically about Hillary Clinton and who contributed money to her in the last election. Specifically, you want to know what kinds of jobs her individual contributors had. What would you do?   
+_user is likely to end up on the legacy site for this task. if so, ask them to complete another task starting from there._ - Okay, now imagine that you want to look up some data specifically about Hillary Clinton. Specifically, you want to know how much money she raised from regular American individuals. What would you do?   
 
 [return to the starting screen]
 

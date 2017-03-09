@@ -69,7 +69,7 @@ Okay, for the first few questions, I'm going to ask you to take your hand off th
 
 Okay, feel free to take control of your mouse again. I'm going to present you with a task, like before. Ready?
 
-- Imagine that you recently had a debate with a friend about how much money was spent in federal election last November. Your friend claims that the total spending across by all the federal candidates was around one billion dollars, but you don't believe her. Can you find information about how much money was actually spent by federal candidates in the last election?
+- Imagine that you recently had a debate with a friend about how much money was spent in the federal election last November. Your friend claims that the total spending by all the federal candidates was around one billion dollars, but you don't believe her. Can you find information about how much money was actually spent by federal candidates in the 2016 election?
 
 [return to the starting screen]
 

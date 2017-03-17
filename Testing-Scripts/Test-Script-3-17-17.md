@@ -39,32 +39,43 @@ Great. First, I'd like to point out that this design is still in progress, so no
 [user confirms]
 
 **Task 1**
-- Can you find guidance about how to file a complaint?
-
-**Task 2**
-- Can you find guidance about how to request an advisory opinion?
-
-**Task 3**
 - Can you find the party committee campaign guide?
 
-**Task 4**
+**Task 2**
+- Can you find information about how and when a candidate's committee can shut down after an election?
+
+**Task 3**
 - Can you find a way to contact the reports analysis division?
 
-**Task 5**
+**Task 4**
 - Can you find information about how a corporation can start a committee?
 
-**Task 6**
+**Task 5**
 - Can you find guidance about what to do if you receive an RFAI (request for additional information)?
 
-**Task 7**
+**Task 6**
 - What is a typical task you would try to complete on the FEC website? How would you do that with what you see here?
+
+**Task 7**
+Okay, for this next task we're going to start from the home page. [have user click logo to go to home page]. Please take your hand off the mouse for a second. I'll present you with a task, and I'd like you to tell me what your first step would be to answer it. 
+
+- Can you find information about how to request an advisory opinion? 
+
+[if user would go to candidate & committee services, let them do that; if they would go to legal resources, let them hover over the menu to see what they would do next, without clicking. once they have decided, take them to the corresponding page on beta.fec.gov]
+
+**Task 8**
+Okay, let's start back on the other homepage for this next task. [return to feature proxy homepage]. Again, I'm going to ask that you take your hand off the mouse and just tell me what you would do first to complete this task.
+
+- Can you find guidance about how to file a complaint?
+
+[if user would go to candidate & committee services, let them do that; if they would go to legal resources, let them hover over the menu to see what they would do next, without clicking. once they have decided, take them to the corresponding page on beta.fec.gov]
 
 
 Great! We've finished with our tasks. Before we'd close, I'd like to ask a few general questions:
 
-- Do you have any final thoughts about the features you clicked through today?
+- Do you have any thoughts you want to share about the experience you clicked through today?
 
-- Do you have any questions for me, or any other general feedback you'd like to provide?
+- Do you have any questions for me?
 
 Ok, thank you for all of your help today!
 

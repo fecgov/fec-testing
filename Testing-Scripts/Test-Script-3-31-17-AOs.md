@@ -9,25 +9,6 @@
 
 - AO filters
 
-## Introduction script: 
-
-Hi, I'm **___**, and I'm working on the Federal Election Commission website redesign, and we'd like to get your feedback on some new content we're adding. Before we start, I want to make it clear that we're testing the designs, not you. You can't do anything wrong here - all answers are the right answers.
-
-Although it may seem a little weird, I'm going to ask you to think out loud as much as possible as you look at the designs. Describe what you're looking at, what you're trying to do, and what you're thinking. This will be a huge help to us.
-
-Finally, please don't worry that you're going to hurt our feelings. We're doing this to improve the site, so we need to hear your honest reactions. Sound good?
-
-[wait for user confirmation; clarify things if user asks questions]
-
-(credit: Krug)
-
-## Introduction questions:
-
-Before we take a look at the designs, I’d first like to ask a few things:
-
-- What is your background?
-- Do you visit the FEC website often?
-- When you come to the FEC's website, what kinds of information are you looking for? 
 
 ## Tasks:
 

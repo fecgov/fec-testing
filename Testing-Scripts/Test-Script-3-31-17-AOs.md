@@ -23,7 +23,7 @@ Finally, please don't worry that you're going to hurt our feelings. We're doing 
 
 ## Introduction questions:
 
-Before we take a look at the wireframes, I’d first like to ask a few things:
+Before we take a look at the designs, I’d first like to ask a few things:
 
 - What is your background?
 - Do you visit the FEC website often?

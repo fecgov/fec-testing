@@ -57,6 +57,8 @@ Alright, so the first task is:
 
 - Switching gears a little bit....can you find out if there are any elections coming up near you? 
 
+- What were you trying to do the last time you visited the FEC site? Can you do that with what you see here?
+
 - You work for a candidate's authorized committee and have received a donation from a foreign national. You want to know if you can accept that donation or not. Can you find the answer to that question using this website?
 
 - Imagine that you're a journalist. Can you find the FEC's most recent press release?

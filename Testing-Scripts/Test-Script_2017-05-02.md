@@ -55,7 +55,9 @@ Alright, so the first task is:
 
 ### Navigation
 
-- Switching gears a little bit....can you find out if there are any elections coming up near you? 
+Switching gears a little bit...let's go back to the home page. [user goes to home page].
+
+- Can you find out if there are any elections coming up near you? 
 
 - What were you trying to do the last time you visited the FEC site? Can you do that with what you see here?
 

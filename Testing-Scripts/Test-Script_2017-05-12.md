@@ -8,6 +8,7 @@
 ## Features tested this week:
 
 - Site-wide search
+- Candidate pages
 
 ## Introduction script: 
 

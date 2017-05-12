@@ -43,7 +43,7 @@ Perfect- thanks!
 Alright, so, for the first question, I'm going to have you tell me what you think you would do to answer it, but don't actually click anything. 
 
 
-- Think of one of your Congressional representatives, or just any member of Congress who comes to mind. Do you have someone in mind? Okay, if you wanted to know more about who is contributing money to that candidate, what would you do?
+- Think of one of your Congressional representatives, or just any member of Congress who comes to mind. Do you have someone in mind? Okay, if you wanted to know more about how much money that candidate's campaign is raising and spending, what would you do?
     - [if not already using search bar, prompt user to try that]
 
 - If you were wanted to know who one of your neighbors or family members donated money to in the last presidential election, what would you do to find out?

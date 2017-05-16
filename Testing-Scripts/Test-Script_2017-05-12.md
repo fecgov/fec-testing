@@ -46,7 +46,7 @@ Alright, so, for the first question, I'm going to have you tell me what you thin
 - Think of one of your Congressional representatives, or just any member of Congress who comes to mind. Do you have someone in mind? Okay, if you wanted to know more about how much money that candidate's campaign is raising and spending, what would you do?
     - [if not already using search bar, prompt user to try that]
 
-- If you were wanted to know who one of your neighbors or family members donated money to in the last presidential election, what would you do to find out?
+- If you were wanted to know who one of your neighbors or family members (or any specific person) donated money to in the last presidential election, what would you do to find out?
     - [if not already using search bar, prompt user to try that -- use the name Kate Hudson as an example]
 
 - If you were working for a campaign and you wanted to know about your next reporting deadline, what would you do?

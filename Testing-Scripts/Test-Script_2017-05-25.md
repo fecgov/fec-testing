@@ -35,7 +35,7 @@ Before we take a look at the designs, I’d first like to ask a few things:
 
 - There is a senator named Tammy Baldwin. Imagine that you want to know the names of some groups who are trying to prevent her from being re-elected. Can you find that information?
 
-- If you were wanted to know who the actor George Clooney donated money to in the last presidential election, what would you do to find out?
+- If you wanted to know who the actor George Clooney donated money to in the last presidential election, what would you do to find out?
 
 - Imagine that you came to the site today because you want to know if campaigns can accept donations from foreign nationals. Can you find an answer to that question?
 

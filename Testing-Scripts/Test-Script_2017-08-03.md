@@ -4,15 +4,23 @@
 
 - Watch & listen: <https://hangouts.google.com/hangouts/_/gsa.gov/fec-website?authuser=0>
 - Take notes: <https://docs.google.com/spreadsheets/d/1Z3T45hb1WAhD1zRL_fLXZlfQ9ApenTvgYE0OM0eLhaE/edit?pli=1#gid=313597352>
-- InVision protoype: <https://gsa.invisionapp.com/share/3ZCK4WRQM#/243418443_Home-V1_Copy_21>
+- InVision protoype homepage: <https://gsa.invisionapp.com/share/3ZCK4WRQM#/243418443_Home-V1_Copy_21>
+- InVision prototype data landing page: https://gsa.invisionapp.com/share/NECTRO1JD#/246322092_Data-Landing-V4
 
 ## Features tested this week:
 
+### Homepage
 - open-ended feedback
 - home page clarity
 - ability to find upcoming meetings and meeting agendas
 - ability to find past meetings
 - recognizing time-sensitive activities
+
+### Data Landing
+- Data landing page clarity
+- Ability to find Individual Contributors
+- Ability to find how to compare candidates in an election
+- Ability to find advanced data sets
 
 ## Introduction script: 
 
@@ -37,11 +45,15 @@ Before we take a look at the designs, I’d first like to ask a few things:
     - What were you doing the last time you came to the FEC website? Can you try to do that same thing again?
     - What is another reason you might come to the FEC website? Can you accomplish that goal with what you see here?
 
+### Homepage questions
 - Imagine that you heard the Commission discussed an issue relevant to your interests in a prior meeting. Where would you look to find that information?
 
 - If you wanted to see when the Commission is meeting next, how would you find that information? 
 
 - What is being discussed at the next commission meeting?
+
+### Data landing page questions
+- Insert questions here
 
 
 ## General questions

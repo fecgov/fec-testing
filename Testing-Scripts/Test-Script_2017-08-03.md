@@ -40,13 +40,15 @@ Before we take a look at the designs, I’d first like to ask a few things:
 
 - What is your background?
 - Do you visit the FEC website often?
+
+
+### Homepage questions
 - When you come to the FEC's website, what kinds of information are you looking for?
     - Can you try to find that information with what you see here?
     - What were you doing the last time you came to the FEC website? Can you try to do that same thing again?
     - What is another reason you might come to the FEC website? Can you accomplish that goal with what you see here?
 
-### Homepage questions
-- Imagine that you heard the Commission discussed an issue relevant to your interests in a prior meeting. Where would you look to find that information?
+- Imagine that you heard the Commission reccently discussed an issue relevant to your interests. Where would you look to find that information?
 
 - If you wanted to see when the Commission is meeting next, how would you find that information? 
 

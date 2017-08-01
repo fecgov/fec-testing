@@ -67,7 +67,7 @@ Ok, let's take a look at a design.
 - Looking at this design but WITHOUT clicking anything, what is your first impression? Do you see anything you would use?
 - **Task 1:** Imagine that you live in Georgia and are interested in finding out what races are happening in your state. How would you do that?
 - **Task 2:** A person named John Ossoff ran for the U.S. House. You want to know how much money he spent during his house run. Can you tell me how you would answer this question?
-- **Task 3:** You were watching the news and heard that Kristen Bell donated money but you want to know how much. How would you find out? 
+- **Task 3:** You were watching the news and heard that Kristen Bell donated money but you want to know how much and to who or what. How would you find out? 
 
 ### Compliance map questions
 Okay, for this next section, I want to ask you some specific questions about the old FEC website. 

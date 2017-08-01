@@ -53,7 +53,16 @@ Before we take a look at the designs, I’d first like to ask a few things:
 - What is being discussed at the next commission meeting?
 
 ### Data landing page questions
-- Insert questions here
+Ok, let's take a look at a design.
+
+[user opens invision link and shares screen] (https://gsa.invisionapp.com/share/NECTRO1JD#/246322092_Data-Landing-V4)
+
+- Looking at this design but WITHOUT clicking anything, what is your first impression?
+- Now try clicking on the Campaign Finance Data menu option at the top in this design, what can you tell me about the individual options displayed there? Are they useful?
+- Take a look at the trending sections of this design, would you find something like this useful or not? 
+    - [If user finds this useful] Why would you find something like this useful?
+    - [If user finds this NOT useful] Why and what kinds of trending options would you rather see?
+- Imagine that you live in Georgia and are interested in finding out what races are happening in your state now. How would you do that?
 
 
 ## General questions

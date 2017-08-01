@@ -22,6 +22,11 @@
 - Ability to find how to compare candidates in an election
 - Ability to find advanced data sets
 
+### Compliance Map
+- how users find compliance requirements
+- ability to find/use compliance map
+- open-ended feedback
+
 ## Introduction script: 
 
 Hi, I'm **___**, and I'm working on the Federal Election Commission website redesign, and we'd like to get your feedback on some new content we're adding. Before we start, I want to make it clear that we're testing the designs, not you. You can't do anything wrong here - all answers are the right answers.
@@ -67,6 +72,20 @@ Ok, let's take a look at a design.
 - How can we test candidate and committee search?*
 - How can we test individual contribution search?*
 
+### Compliance map questions
+Okay, for this next section, I want to ask you some specific questions about the old FEC website. 
+
+[Direct user to classic.fec.gov]
+
+- Pretend you're working for Karen Handel, who recently ran for Congress in Georgia's sixth district.  If you wanted to know about her reporting deadlines, what would you do?
+
+[If lost or finds another way to do it, tell user that you want to direct their attention to a specific feature and ask how they might use it to answer the question - direct them to the map and ask them to answer the question that way.  Help with reporting and compliance > Compliance map.]
+
+- What is your general impression of this compliance map?
+
+- What do you think this part of the website does well?
+
+- What do you think it could do better, or what would you change about it?
 
 ## General questions
 

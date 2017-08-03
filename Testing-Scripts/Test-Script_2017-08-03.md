@@ -4,7 +4,7 @@
 
 - Watch & listen: <https://hangouts.google.com/hangouts/_/gsa.gov/fec-website?authuser=0>
 - Take notes: <https://docs.google.com/spreadsheets/d/1Z3T45hb1WAhD1zRL_fLXZlfQ9ApenTvgYE0OM0eLhaE/edit?pli=1#gid=313597352>
-- InVision protoype homepage: <https://gsa.invisionapp.com/share/3ZCK4WRQM#/243418443_Home-V1_Copy_21>
+- Homepage: https://fec-dev-proxy.app.cloud.gov/
 - InVision prototype data landing page: https://gsa.invisionapp.com/share/NECTRO1JD#/246322092_Data-Landing-V4
 
 ## Features tested this week:
@@ -46,6 +46,7 @@ Before we take a look at the designs, I’d first like to ask a few things:
 - What is your background?
 - Do you visit the FEC website often?
 
+(provide link to homepage: https://fec-dev-proxy.app.cloud.gov/ )
 
 ### Homepage questions
 - When you come to the FEC's website, what kinds of information are you looking for?
@@ -59,8 +60,9 @@ Before we take a look at the designs, I’d first like to ask a few things:
 
 - What is being discussed at the next commission meeting?
 
+
 ### Data landing page questions
-Ok, let's take a look at a design. 
+Ok, let's take a look at a new design that hasn't been coded yet. 
 
 [user opens invision link and shares screen] (https://gsa.invisionapp.com/share/NECTRO1JD#/246322092_Data-Landing-V4)
 

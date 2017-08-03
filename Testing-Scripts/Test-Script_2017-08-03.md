@@ -12,9 +12,9 @@
 ### Homepage
 - open-ended feedback
 - home page clarity
-- ability to find upcoming meetings and meeting agendas
+- ability to find upcoming meetings
 - ability to find past meetings
-- recognizing time-sensitive activities
+- navigating to committee guidance from the home page
 
 ### Data Landing
 - Data landing page clarity
@@ -58,7 +58,7 @@ Before we take a look at the designs, I’d first like to ask a few things:
 
 - If you wanted to see when the Commission is meeting next, how would you find that information? 
 
-- What is being discussed at the next commission meeting?
+- Pretend you received a few strange contributions that you're not sure you can keep. Starting from the homepage, where would you go to figure out if you're allowed to take this money?
 
 
 ### Compliance map questions

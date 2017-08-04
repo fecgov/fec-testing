@@ -2,7 +2,10 @@
 
 ## Quick connection links
 
-- Watch & listen: <https://appear.in/fec-website-testing?skipCamPrimer>
+- Watch & listen: 
+    - Plan A: <https://hangouts.google.com/hangouts/_/gsa.gov/fec-website>
+    - Plan B (Back-up): <https://appear.in/fec-website-testing?skipCamPrimer>
+
 - Take notes: <https://docs.google.com/spreadsheets/d/1Z3T45hb1WAhD1zRL_fLXZlfQ9ApenTvgYE0OM0eLhaE/edit?pli=1#gid=313597352>
 - Homepage: https://fec-dev-proxy.app.cloud.gov/
 - InVision prototype data landing page: https://gsa.invisionapp.com/share/NECTRO1JD#/246322092_Data-Landing-V4

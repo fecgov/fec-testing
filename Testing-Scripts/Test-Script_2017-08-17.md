@@ -43,7 +43,7 @@ Before we take a look at the designs, I’d first like to ask a few things:
 - What is your background?
 - Do you visit the FEC website often?
 
-(provide link to homepage: https://fec-dev-proxy.app.cloud.gov/ )
+(provide link to homepage: https://fec-stage-proxy.app.cloud.gov/)
 
 ### Homepage questions
 - When you come to the FEC's website, what kinds of information are you looking for?

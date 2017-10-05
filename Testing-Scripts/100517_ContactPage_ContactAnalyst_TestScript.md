@@ -1,7 +1,6 @@
 # October 5, 2017 Test Script
 ## Quick connection links:
-> https://plus.google.com/hangouts/_/calendar/cHBob25nc3ZpcmFqYXRpQGZlYy5nb3Y.09e85ijoun7enj386llutc41m0?authuser=0
-> https://appear.in/fec-website-testing?skipCamPrimer
+> https://plus.google.com/hangouts/_/calendar/amN1bG1lckBmZWMuZ292.4jvsouqm172cm5mbv1vv8d6lg2?authuser=0
 
 ## Features tested this week:
 ### Contact your analyst
